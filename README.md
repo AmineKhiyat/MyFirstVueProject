@@ -1,4 +1,4 @@
-# my-project
+# MyFirstVueProject
 
 ## Project setup
 ```
